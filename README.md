@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGHKT81TQ0/Z4IeQLQdMuk0J3w6-a9lmA/view?utm_content=DAGHKT81TQ0&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="GitHub Banner">
+  <img src="https://preritathought.my.canva.site/motivate" alt="GitHub Banner">
 </p>
 
 <p align="center">
