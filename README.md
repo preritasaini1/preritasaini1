@@ -26,10 +26,10 @@
   + Data Analyst
 
 ## 💫 Certifications/Publications:
-1. Python for Data Science, AI & Development , IBM COURSERA. 
-2.Introduction to Basic Game Development using Scratch, COURSERA 
-3.Create a website using WordPress: Free hosting and Sub-domain , COURSERA 
-4.HTML CSS AND JAVASCRIPT FOR WEB DEVELOPERS , COURSERA 
+- Python for Data Science, AI & Development , IBM COURSERA.
+- Introduction to Basic Game Development using Scratch, COURSERA
+- Create a website using WordPress: Free hosting and Sub-domain , COURSERA
+- HTML CSS AND JAVASCRIPT FOR WEB DEVELOPERS , COURSERA 
 
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/prerita-saini-b67393284/" target="blank"><span style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="Daksh Tyagi" height="45" width="45" /></span></a>
@@ -39,7 +39,7 @@
 ## 💻 Languages & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,Javascript,py,html,mysql,wordpress&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,Javascript,py,html,mysql,machine learning,wordpress&perline=3" />
   </a>
 </p>
 
