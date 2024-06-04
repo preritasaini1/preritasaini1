@@ -33,7 +33,7 @@
 
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/prerita-saini-b67393284/" target="blank"><span style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="Daksh Tyagi" height="45" width="45" /></span></a>
-  <a href="preritasaini1@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="dakshtyagi0002" height="45" width="45" /></a>
+  <a href="preritasaini1@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="preritasaini01" height="45" width="45" /></a>
 </p>
 
 ## 💻 Languages & Tools:
