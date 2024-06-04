@@ -1,5 +1,5 @@
 <p align="center">
-  ![Alt text](https://preritathought.my.canva.site/motivate)
+  ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/preritasaini1/preritasaini1/assets/149650718/82f153b7-a4df-454f-8c36-d0f85de36f06)
 </p>
 
 <p align="center">
