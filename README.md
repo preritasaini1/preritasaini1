@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dakshtyagi0002/dakshtyagi0002/assets/166803695/3fdd6e20-539c-4d85-8a95-b9dd5e564e82" alt="GitHub Banner">
+  <img src="https://www.canva.com/design/DAGHKT81TQ0/Z4IeQLQdMuk0J3w6-a9lmA/view?utm_content=DAGHKT81TQ0&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="GitHub Banner">
 </p>
 
 <p align="center">
