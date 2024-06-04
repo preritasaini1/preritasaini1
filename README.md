@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://preritathought.my.canva.site/motivate" alt="GitHub Banner">
+  ![Alt text](https://preritathought.my.canva.site/motivate)
 </p>
 
 <p align="center">
