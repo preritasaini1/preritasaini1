@@ -1,5 +1,5 @@
 <p align="center">
-  ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/preritasaini1/preritasaini1/assets/149650718/82f153b7-a4df-454f-8c36-d0f85de36f06)
+  <img src="https://github.com/preritasaini1/preritasaini1/assets/149650718/82f153b7-a4df-454f-8c36-d0f85de36f06" alt="git_thought">
 </p>
 
 <p align="center">
