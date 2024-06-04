@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/preritasaini1/preritasaini1/assets/149650718/82f153b7-a4df-454f-8c36-d0f85de36f06" alt="git_thought">
+  <img src="https://github.com/preritasaini1/preritasaini1/assets/149650718/97729ab6-a158-4a21-83e0-0bdebee3319b" alt="git_thought">
 </p>
 
 <p align="center">
