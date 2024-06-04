@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading Black Minimal Motivation Quote LinkedIn Banner.jpg…]()
-" alt="GitHub Banner">
+  <img src="https://preritathought.my.canva.site/motivate" alt="GitHub Banner">
 </p>
 
 <p align="center">
