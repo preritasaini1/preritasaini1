@@ -22,8 +22,10 @@
   + 9.0 CGPA
 
 ## 💼 Experience:
-- Prodigy InfoTech - June 2024 (ongoing)
+- Prodigy InfoTech - June 2024 
   + Data Analyst
+- CodSoft - June 2024 
+  + Python Programming
 
 ## 💫 Certifications/Publications:
 - Python for Data Science, AI & Development , IBM COURSERA.
