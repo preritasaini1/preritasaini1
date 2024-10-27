@@ -49,6 +49,8 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="15%" alt="GIF">
 </p>
 
+## 🏆My Holophin Badges:
+[![An image of @preritasaini1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preritasaini1)](https://holopin.io/@preritasaini1)
 ## ✍️ Random Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
