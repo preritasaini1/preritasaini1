@@ -58,3 +58,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/XRnbDusSE2cBG/giphy.gif" width="18%" alt="GIF">
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=preritasaini1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
