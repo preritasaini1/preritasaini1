@@ -31,7 +31,16 @@
 - Python for Data Science, AI & Development , IBM COURSERA.
 - Introduction to Basic Game Development using Scratch, COURSERA
 - Create a website using WordPress: Free hosting and Sub-domain , COURSERA
-- HTML CSS AND JAVASCRIPT FOR WEB DEVELOPERS , COURSERA 
+- HTML CSS AND JAVASCRIPT FOR WEB DEVELOPERS , COURSERA
+  
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Siddharthakhandelwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Siddharthakhandelwal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthakhandelwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/prerita-saini-b67393284/" target="blank"><span style="margin-right: 20px;"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/47e2fb9bc1353315f589ad5ce992b4f7debf2e48/icons/LinkedIn.svg" alt="Daksh Tyagi" height="45" width="45" /></span></a>
@@ -51,6 +60,7 @@
 
 ## 🏆My Holophin Badges:
 [![An image of @preritasaini1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preritasaini1)](https://holopin.io/@preritasaini1)
+
 ## ✍️ Random Dev Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
@@ -59,4 +69,12 @@
   <img src="https://media.giphy.com/media/XRnbDusSE2cBG/giphy.gif" width="18%" alt="GIF">
 </p>
 
+---
+
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=preritasaini1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=preritasaini1&limit=5&theme=dark&combine_all_yearly_contributions=true)
