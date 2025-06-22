@@ -61,7 +61,9 @@
 </p>
 
 ### ✨ Leetcode Badges
-![](https://leetcode-badge-showcase.vercel.app/api?username=Prerita_1&theme=nightowl&animated=true)
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Prerita_1&theme=nightowl&animated=true" />
+</p>
 
 ## 🏆My Holophin Badges:
 [![An image of @preritasaini1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preritasaini1)](https://holopin.io/@preritasaini1)
