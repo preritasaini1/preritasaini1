@@ -74,3 +74,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=preritasaini1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✨ Leetcode Badges
+![](https://leetcode-badge-showcase.vercel.app/api?username=Prerita_1&theme=nightowl&animated=true)
