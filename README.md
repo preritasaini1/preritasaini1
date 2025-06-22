@@ -28,6 +28,7 @@
   + Python Programming
 
 ## 💫 Certifications/Publications:
+- Microsoft Certified: Azure AI Fundamentals – Microsoft
 - Python for Data Science, AI & Development , IBM COURSERA.
 - Introduction to Basic Game Development using Scratch, COURSERA
 - Create a website using WordPress: Free hosting and Sub-domain , COURSERA
