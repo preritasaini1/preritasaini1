@@ -90,5 +90,5 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="[https://leetcode-badge-showcase.vercel.app/api?username=Prerita_1&theme=nightowl&animated=true](https://github-contributor-stats.vercel.app/api?username=preritasaini1&limit=5&theme=dark&combine_all_yearly_contributions=true)" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=preritasaini1&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
