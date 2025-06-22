@@ -48,7 +48,7 @@
 ## 💻 Languages & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp,php,mysql,react,nextjs,flutter,tailwind,linux,git,tensorflow,pytorch,sklearn,flask,ai,wordpress,electron&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,php,mysql,react,nextjs,flutter,tailwind,linux,git,tensorflow,pytorch,sklearn,flask,ai,wordpress,electron,docker,postman,sqlite,fastapi&perline=6" />
   </a>
 </p>
 <p align="center">
