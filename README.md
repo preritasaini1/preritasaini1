@@ -48,13 +48,22 @@
 ## 💻 Languages & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,ai,sklearn,wordpress&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java,cpp,php,mysql,react,nextjs,flutter,tailwind,linux,git,kaggle,tensorflow,pytorch,opencv,numpy,pandas,matplotlib,sklearn,keras,flask,ai,wordpress,electron&perline=6" />
   </a>
+</p>
+
+<p align="center">
+  <b>Languages I Know:</b> HTML, CSS, JavaScript, Python, Java, C++, PHP, MySQL
+
+  <br><b>Libraries & Frameworks:</b> React, Next.js, Flutter, Tailwind CSS, NumPy, Pandas, Matplotlib, TensorFlow, Keras, PyTorch, OpenCV, scikit-learn, Flask
+
+  <br><b>Tools & Platforms:</b> Git, Linux, Kaggle, WordPress, Electron
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="15%" alt="GIF">
 </p>
+
 
 ## 🏆My Holophin Badges:
 [![An image of @preritasaini1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preritasaini1)](https://holopin.io/@preritasaini1)
