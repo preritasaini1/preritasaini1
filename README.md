@@ -60,6 +60,8 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="15%" alt="GIF">
 </p>
 
+### ✨ Leetcode Badges
+![](https://leetcode-badge-showcase.vercel.app/api?username=Prerita_1&theme=nightowl&animated=true)
 
 ## 🏆My Holophin Badges:
 [![An image of @preritasaini1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preritasaini1)](https://holopin.io/@preritasaini1)
@@ -79,6 +81,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=preritasaini1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### ✨ Leetcode Badges
-![](https://leetcode-badge-showcase.vercel.app/api?username=Prerita_1&theme=nightowl&animated=true)
