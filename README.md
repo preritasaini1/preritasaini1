@@ -44,15 +44,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preritasaini1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=preritasaini1&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preritasaini1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ## 💻 Languages & Tools:
@@ -88,7 +80,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?preritasaini1=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=preritasaini1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 🔝 Top Contributed Repo
