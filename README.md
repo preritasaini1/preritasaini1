@@ -80,7 +80,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=preritasaini1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=preritasaini1&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 🔝 Top Contributed Repo
